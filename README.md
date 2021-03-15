@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in everything Tech
+- 🌱 I’m currently learning Kafka
+- 💞️ I’m looking to collaborate on anything related to JavaScript libraries, framework and tools, and Kafka
